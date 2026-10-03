@@ -25,7 +25,7 @@ I ran it like a client engagement, in five steps:
 2. **Data model:** I designed a normalized entity-relationship diagram from those rules (below).
 3. **Build:** I created the tables in Oracle SQL Developer with primary and foreign keys, and loaded sample data.
 4. **Queries:** I wrote stored procedures and views that answer the client's questions.
-5. **Reporting and handoff:** I built a Tableau report on the live data and presented the whole system to the "client."
+5. **Reporting and handoff:** I built a Tableau dashboard on a database view and recorded a presentation of the whole system for the instructor, who played the client.
 
 ## Data model
 
